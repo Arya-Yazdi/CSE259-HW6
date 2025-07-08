@@ -481,11 +481,35 @@
             <mxPoint x="113" y="762" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TRvrpSjDpHR4BY_lNr_P-148" value="0" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="133" y="842" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TRvrpSjDpHR4BY_lNr_P-149" value="1" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="163" y="842" width="20" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="TRvrpSjDpHR4BY_lNr_P-158" value="BDD and OBDD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-4" y="569" width="105" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="TRvrpSjDpHR4BY_lNr_P-159" value="0" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-97" y="842" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TRvrpSjDpHR4BY_lNr_P-160" value="1" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-67" y="842" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TRvrpSjDpHR4BY_lNr_P-162" value="0" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="53" y="842" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TRvrpSjDpHR4BY_lNr_P-163" value="1" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="83" y="842" width="20" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="TRvrpSjDpHR4BY_lNr_P-164" value="Q1c" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="188.5" y="525" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TRvrpSjDpHR4BY_lNr_P-165" value="0" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="842" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TRvrpSjDpHR4BY_lNr_P-166" value="1" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="20" y="842" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
